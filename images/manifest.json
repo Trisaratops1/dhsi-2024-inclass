@@ -1,0 +1,66 @@
+{
+  "id" : "https://Trisaratops1.github.io/dhsi-2024-inclass/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in Trisaratops1/dhsi-2024-inclass project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 2310,
+    "id" : "https://Trisaratops1.github.io/dhsi-2024-inclass/images/takao_tanabe/canvas/",
+    "label" : {
+      "none" : [ "takao_tanabe" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://Trisaratops1.github.io/dhsi-2024-inclass/images/takao_tanabe/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://Trisaratops1.github.io/dhsi-2024-inclass/images/takao_tanabe/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 73,
+              "height" : 38
+            }, {
+              "width" : 145,
+              "height" : 75
+            }, {
+              "width" : 289,
+              "height" : 149
+            }, {
+              "width" : 578,
+              "height" : 298
+            }, {
+              "width" : 1155,
+              "height" : 596
+            }, {
+              "width" : 2310,
+              "height" : 1191
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 2310,
+            "@id" : "https://Trisaratops1.github.io/dhsi-2024-inclass/images/takao_tanabe",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1191
+          } ],
+          "format" : "image/jpeg",
+          "width" : 2310,
+          "id" : "https://Trisaratops1.github.io/dhsi-2024-inclass/images/takao_tanabe/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1191
+        },
+        "target" : "https://Trisaratops1.github.io/dhsi-2024-inclass/images/takao_tanabe/canvas/"
+      } ]
+    } ],
+    "height" : 1191
+  } ]
+}
