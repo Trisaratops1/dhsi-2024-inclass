@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 73,
+    "height" : 38
+  }, {
+    "width" : 145,
+    "height" : 75
+  }, {
+    "width" : 289,
+    "height" : 149
+  }, {
+    "width" : 578,
+    "height" : 298
+  }, {
+    "width" : 1155,
+    "height" : 596
+  }, {
+    "width" : 2310,
+    "height" : 1191
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2310,
+  "@id" : "https://Trisaratops1.github.io/dhsi-2024-inclass/images/takao_tanabe",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1191
+}
