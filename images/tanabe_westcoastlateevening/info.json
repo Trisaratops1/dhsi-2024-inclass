@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 25,
+    "height" : 13
+  }, {
+    "width" : 50,
+    "height" : 26
+  }, {
+    "width" : 99,
+    "height" : 52
+  }, {
+    "width" : 198,
+    "height" : 103
+  }, {
+    "width" : 396,
+    "height" : 206
+  }, {
+    "width" : 792,
+    "height" : 411
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 792,
+  "@id" : "https://Trisaratops1.github.io/dhsi-2024-inclass/images/tanabe_westcoastlateevening",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 411
+}
