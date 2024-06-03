@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 792,
+    "id" : "https://Trisaratops1.github.io/dhsi-2024-inclass/images/tanabe_westcoastlateevening/canvas/",
+    "label" : {
+      "none" : [ "tanabe_westcoastlateevening" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://Trisaratops1.github.io/dhsi-2024-inclass/images/tanabe_westcoastlateevening/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://Trisaratops1.github.io/dhsi-2024-inclass/images/tanabe_westcoastlateevening/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 25,
+              "height" : 13
+            }, {
+              "width" : 50,
+              "height" : 26
+            }, {
+              "width" : 99,
+              "height" : 52
+            }, {
+              "width" : 198,
+              "height" : 103
+            }, {
+              "width" : 396,
+              "height" : 206
+            }, {
+              "width" : 792,
+              "height" : 411
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 792,
+            "@id" : "https://Trisaratops1.github.io/dhsi-2024-inclass/images/tanabe_westcoastlateevening",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 411
+          } ],
+          "format" : "image/jpeg",
+          "width" : 792,
+          "id" : "https://Trisaratops1.github.io/dhsi-2024-inclass/images/tanabe_westcoastlateevening/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 411
+        },
+        "target" : "https://Trisaratops1.github.io/dhsi-2024-inclass/images/tanabe_westcoastlateevening/canvas/"
+      } ]
+    } ],
+    "height" : 411
+  }, {
     "width" : 2310,
     "id" : "https://Trisaratops1.github.io/dhsi-2024-inclass/images/takao_tanabe/canvas/",
     "label" : {
